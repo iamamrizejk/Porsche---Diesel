@@ -33,7 +33,7 @@ Before you begin, ensure you have the following:
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd porsche-diesel
+   cd porsche---diesel
    ```
 
 ### Running the Project
@@ -44,6 +44,11 @@ For an enhanced development experience, consider using a live server extension (
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact us at (mailto:iamamrizejk@gmail.com).
+For any questions or suggestions, feel free to reach out:
+
+GitHub: https://github.com/iamamrizejk
+
+Email: iamamrizejk@gmail.com
+
 
 ---
